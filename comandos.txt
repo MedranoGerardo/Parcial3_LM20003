@@ -1,0 +1,7 @@
+ls
+cd proyecto
+cd clases-tpi-laravel/
+cd proyecto
+sudo -su
+chmod -R 777 Parcial3_LM20003/
+Create table db_examen_db
